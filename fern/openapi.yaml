@@ -4,7 +4,7 @@ servers:
     description: Demo server
 info:
   description: |
-    This is a sample Plant Store Server based on the OpenAPI 3.1 specification. It provides a comprehensive set of endpoints for managing plants, orders, and user authentication.
+    This is a sample Fern Demo Server based on the OpenAPI 3.1 specification. It provides a comprehensive set of endpoints for managing plants, orders, and user authentication.
     
     ### Key Features
     - **Rich API Documentation**: Includes detailed examples and schema definitions.
@@ -17,10 +17,10 @@ info:
     - OAuth2 flow is available for plant-specific operations.
     
   version: 1.0.18
-  title: Swagger Plant Store - OpenAPI 3.1
+  title: JTJ's Fern Demo - OpenAPI 3.1
   termsOfService: "http://buildwithfern.com/tos/"
   contact:
-    name: Plant Store API Support
+    name: JTJ's API Support
     url: https://support.plantstore.dev
     email: support@buildwithfern.com
   license:
